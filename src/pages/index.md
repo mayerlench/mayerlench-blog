@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Welcome the blog of Mayer Lench
+image: /img/hero_landing.png
+heading: Projects
+subheading: Updated with tech related posts
 mainpitch:
-  title: Why Kaldi
+  title: Hi I'm Mayer
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Hey there, thanks for stopping by. My name is Mayer and I am a full-stack
+    software developer living in the NY/NJ. I especially love the latest and
+    best tech and enjoy my work like its my hobby
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Fueled by caffeine, i lead a team of software developers. Together we build
+  the efficient software using the agile software development processes 
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -25,7 +22,7 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/coffee-gear.png
+    - image: /img/codeyourlibrary.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
@@ -68,3 +65,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
